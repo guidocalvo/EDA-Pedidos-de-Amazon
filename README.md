@@ -14,7 +14,7 @@ El objetivo del proyecto es detectar los factores que más impactan en las venta
 
 Los datos se dividen en dos tablas, una de pedidos, donde está toda la información de cada pedido (un pedido por fila) y la otra de clientes, donde están todos sus detalles.
 
-Dataset 1: amazon_sales.xlsx
+### Dataset 1: amazon_sales.xlsx
 
 Contiene 59.964 filas y 20 columnas. 
 
@@ -40,7 +40,7 @@ Sus columnas son:
 -	`Profit`: Ganancia total del pedido.
 -	`Customer`: Nombre del cliente.
 
-Dataset 2: amazon_customer.xlsx
+### Dataset 2: amazon_customer.xlsx
 
 Contiene 99 filas y 5 columnas. 
 

@@ -56,9 +56,13 @@ Sus columnas son:
 ## 🗂️ Estructura del Proyecto
 
 ├── data/ # Archivos de datos originales y procesados
+
 ├── notebooks/ # Jupyter Notebooks del análisis
+
 ├── src/ # Funciones auxiliares
+
 ├── dashboard/ # Archivo Power BI para visualizar y analizar datos
+
 └── README.md # Descripción del proyecto
 
 

@@ -166,6 +166,8 @@ Para ejecutar los notebooks se necesita:
 -	Instalar Python y las librerías utilizadas en cada Notebook (pandas, numpy, matplotlib, etc).
 -	Ejecutar los notebooks siguiendo el orden que tienen los nombres de los archivos.
 
+Para visualizar el dashboard se requiere tener Power BI instalado.
+
 
 ## 🤝 Contribuciones
 

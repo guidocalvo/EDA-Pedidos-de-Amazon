@@ -1,6 +1,6 @@
 # Tratamiento de datos
 import pandas as pd
-#--------------
+#---------------
 
 #Visualización
 import matplotlib.pyplot as plt
@@ -183,3 +183,4 @@ def grafico_horizontal(df,col):
 
     plt.tight_layout()
     plt.show()
+
